@@ -1,4 +1,4 @@
-# MUJ HackX 3.0- Official Website
+# InnovatexX- Official Website
 
 Made with ❤️ by Team HackX
 
