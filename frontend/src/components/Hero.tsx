@@ -52,7 +52,7 @@ const HeroSection = () => {
         <div className="relative mt-8 flex flex-col items-center justify-center text-center leading-none">
           {/* SVG Logo Version (from second code) */}
           <div className="font-kinetikaUltra text-offwhite absolute -top-5 left-0 m-0 p-0 text-3xl leading-none font-extrabold tracking-[0.2rem] lg:hidden">
-            MUJ
+            InnovateX 1.0
           </div>
           <Image
             src="/HeroSection/HACKX 3.0.svg"

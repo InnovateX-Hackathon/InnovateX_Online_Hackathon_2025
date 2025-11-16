@@ -10,24 +10,24 @@ type TimelineItem = {
 
 const timelineData: TimelineItem[] = [
   {
-    date: "29TH SEP - 15TH OCT (ROUND 1)",
+    date: "1ST DEC - 25TH DEC (ROUND 1)",
     time: "",
     points: ["Online shortlisting of Participants"],
   },
   {
-    date: "30TH OCT (OPENING)",
+    date: "27TH DEC (OPENING)",
     time: "10:00AM",
     points: [
       "Inauguration & Speech by dignitaries",
       "Announcement of track of event",
-      "HackX Rules & Guidelines",
+      "InnovateX 1.0 Rules & Guidelines",
     ],
   },
   {
     date: "30TH OCT (ROUND 2)",
     time: "12:00PM",
     points: [
-      "HackX Round-1 begins",
+      "InnovateX 1.0 Round-1 begins",
       "Validation and checks for participant teams",
     ],
   },
