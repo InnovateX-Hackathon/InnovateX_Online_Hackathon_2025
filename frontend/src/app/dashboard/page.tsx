@@ -8,7 +8,7 @@ export default function DashboardPage() {
       <html>
         <head>
           <meta httpEquiv="refresh" content="0; URL='/dashboard/login'" />
-          <title>MUJ HackX 3.0 Dashboard</title>
+          <title>InnovateX 1.0 Dashboard</title>
         </head>
         <body>Redirecting you to login...</body>
       </html>

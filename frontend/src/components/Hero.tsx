@@ -64,7 +64,7 @@ const HeroSection = () => {
           />
 
           <div className="font-kinetikaUltra text-offwhite m-0 -mt-4 p-0 text-xl leading-none font-extrabold lg:text-4xl">
-            MUJ&apos;S LARGEST HACKATHON
+            InnovateX 1.0&apos;S LARGEST HACKATHON
           </div>
 
           {/* Prize Pool Circle from second version */}
