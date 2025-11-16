@@ -66,7 +66,7 @@ const Footer: React.FC = () => {
 
         <div className="z-10">
           <p className="text-base font-bold tracking-tighter text-[#429df2] lg:text-lg">
-            ©2025 MUJHACKX, ALL RIGHTS RESERVED.
+            ©2025 InnovateX 1.0, ALL RIGHTS RESERVED.
           </p>
         </div>
       </div>
