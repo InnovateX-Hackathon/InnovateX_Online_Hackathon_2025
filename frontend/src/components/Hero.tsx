@@ -37,7 +37,7 @@ const HeroSection = () => {
       <div className="relative z-10 mt-4 flex min-h-[80vh] flex-col items-center justify-center px-4 text-center lg:px-8">
         {/* Subtitle */}
         <button className="font-avgardn text-offwhite mt-4 rounded-full border-2 border-white bg-transparent px-10 py-3 text-xs font-bold tracking-tight uppercase transition-all duration-300 lg:text-lg">
-          DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING, SCSE, FOSTA
+          DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING,
         </button>
         <div className="font-avgardn text-offwhite relative mt-6 inline-block px-4 py-2 font-bold">
           {/* Corner Borders */}
@@ -64,7 +64,7 @@ const HeroSection = () => {
           />
 
           <div className="font-kinetikaUltra text-offwhite m-0 -mt-4 p-0 text-xl leading-none font-extrabold lg:text-4xl">
-            InnovateX 1.0&apos;S LARGEST HACKATHON
+            InnovateX 1.0&apos;S LARGEST ONLINE HACKATHON
           </div>
 
           {/* Prize Pool Circle from second version */}
