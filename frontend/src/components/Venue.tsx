@@ -15,7 +15,7 @@ const Venue: React.FC = () => {
           <h3 className="mt-4 text-2xl font-semibold">📍 </h3>
           <h3 className="font-avgardn text-2xl font-semibold">
             {" "}
-            Manipal University Jaipur
+            SGSITS , INDORE
           </h3>
           <p className="font-avgardn mt-1 text-xl text-gray-300">
             Jaipur-Ajmer Express Highway, Dehmi Kalan, Near GVK Toll Plaza{" "}
