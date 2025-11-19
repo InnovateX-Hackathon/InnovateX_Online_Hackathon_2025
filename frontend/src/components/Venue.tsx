@@ -18,9 +18,9 @@ const Venue: React.FC = () => {
             SGSITS , INDORE
           </h3>
           <p className="font-avgardn mt-1 text-xl text-gray-300">
-            Jaipur-Ajmer Express Highway, Dehmi Kalan, Near GVK Toll Plaza{" "}
+            23, Sir M. Visvesvaraya Marg, Vallabh Nagar,
             <br />
-            Jaipur, Rajasthan 303007
+            Jaipur, Madhya Pradesh 452009
           </p>
         </div>
 

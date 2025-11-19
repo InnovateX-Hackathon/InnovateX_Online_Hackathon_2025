@@ -74,8 +74,7 @@ const HeroSection = () => {
         <div className="font-kinetikaUltra text-offwhite relative mt-12 flex w-full flex-col items-center gap-8 overflow-hidden py-2 uppercase lg:hidden">
           <div className="text-base">
             Join the ultimate tech showdown a hackathon where your ideas ignite,
-            your code transforms, and your innovations shine!
-          </div>
+            your code transforms, and your innovations shine! 
           <div className="w-1/2">
             <RegisterButton />
           </div>
