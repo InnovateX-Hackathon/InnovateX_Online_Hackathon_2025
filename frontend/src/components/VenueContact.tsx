@@ -3,22 +3,22 @@ import { Phone } from "lucide-react";
 
 const contacts = [
   {
-    name: "Aryan Verma",
+    name: "Nikhil Shimpy",
     role: "Student Convener",
     phone: "+91 8287044755",
   },
   {
-    name: "Samaksh Gupta",
+    name: "Harshvardhan Hatiya",
     role: "Student Convener",
     phone: "+91 9871340076",
   },
   {
-    name: "Tamanna Yadav",
+    name: "Chetna Sikarwar",
     role: "Student Convener",
     phone: "+91 8805147140",
   },
   {
-    name: "Harshada Chandel",
+    name: "Palak Paithari",
     role: "Student Convener",
     phone: "+91 9821970872",
   },
@@ -90,7 +90,7 @@ const VenueContact: React.FC = () => {
       <p className="font-avgardn text-offwhite mt-12 text-center text-lg font-semibold">
         OR MAIL US AT:{" "}
         <a href="mailto:hackxmuj@gmail.com" className="text-offwhite">
-          HACKXMUJ@GMAIL.COM
+          nikhilshimpyworking@gmail.com
         </a>
       </p>
     </div>
